@@ -1,8 +1,5 @@
 ## About me
 
-
-**tina-naegele/tina-naegele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 👋 Hello, I'm Tina.
 - 🔭 I’m currently working on a dogwhistle study and preparing my PhD project about gestures and at-issueness.
 - 🌱 I’m currently learning how to code in R.
